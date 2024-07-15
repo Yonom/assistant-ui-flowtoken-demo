@@ -1,4 +1,4 @@
-This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter project.
+This is a demo showing how to use `flowtoken` with `@assistant-ui/react`.
 
 ## Getting Started
 
